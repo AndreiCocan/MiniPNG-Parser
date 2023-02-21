@@ -13,7 +13,7 @@ python3 -m pip install -r requirements.txt
 ```bash
 python3 -m miniPNG_parser.py <YOUR .mp FILE HERE>
 ```
-
+There is .mp files samples in the minipng-samples forlder 
 ## MiniPNG
 
 A MiniPNG image starts with a magic number (the 8 bytes representing the `Mini-PNG` string), followed by `blocks`. Each of this block follows the following format:
