@@ -6,7 +6,7 @@
 
 ## Getting Started
 ```
-git clone 
+git clone https://github.com/AndreiCocan/MiniPNG-Parser
 cd 
 ```
 
