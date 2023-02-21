@@ -5,9 +5,13 @@
 **Make sure to install the requirements. The programe uses `Pillow`, a fork of PIL (Python Imaging Library) to display the images (except for black and white ones wich are printed directly in the terminal).**
 
 ## Getting Started
-```
+```bash
 git clone https://github.com/AndreiCocan/MiniPNG-Parser
 cd MiniPNG-Parser
+python3 -m pip install -r requirements.txt
+```
+```bash
+python3 -m miniPNG_parser.py <YOUR .mp FILE HERE>
 ```
 
 ## MiniPNG
