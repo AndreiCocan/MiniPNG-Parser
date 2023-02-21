@@ -11,7 +11,7 @@ cd MiniPNG-Parser
 python3 -m pip install -r requirements.txt
 ```
 ```bash
-python3 -m miniPNG_parser.py <YOUR .mp FILE HERE>
+python3 miniPNG_parser.py <YOUR .mp FILE HERE>
 ```
 There is .mp files samples in the minipng-samples folder 
 ## MiniPNG
